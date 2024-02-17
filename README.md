@@ -181,7 +181,8 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/Ramsai1234/Ex1-AAI/assets/94269989/a4e485f1-8f8f-44f1-9619-5e0d990bc933)
+![image](https://github.com/Ramsai1234/Ex1-AAI/assets/94269989/923c1c21-f6f6-40c4-8607-83dd64306def)
+
 ![image](https://github.com/Ramsai1234/Ex1-AAI/assets/94269989/414ef421-fd98-4813-9f8c-7547f5affcbb)
 
 
