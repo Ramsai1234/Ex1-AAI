@@ -1,5 +1,5 @@
-<H3> Name : Rajeshkannan.M</H3>
-<H3>Register No : 212221230081</H3>
+<H3> Name : P Ramsai</H3>
+<H3>Register No : 212221240041</H3>
 <H3> Experiment 1</H3>
 <H3>DATE: 19.02.2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
